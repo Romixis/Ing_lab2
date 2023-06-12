@@ -1,0 +1,68 @@
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.exe
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\pI2_2.Form1.resources
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.Properties.Resources.resources
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\eduar\Desktop\PILab2Ch2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
+C:\Users\eduar\Desktop\Lab_2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.exe
+C:\Users\eduar\Desktop\Lab_2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+C:\Users\eduar\Desktop\Lab_2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+C:\Users\eduar\Desktop\Lab_2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+C:\Users\eduar\Desktop\Lab_2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\eduar\Desktop\Lab_2\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\pI2_2.Form1.resources
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.Properties.Resources.resources
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\eduar\Desktop\Lab_2\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.exe
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\pI2_2.Form1.resources
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.Properties.Resources.resources
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\eduar\Desktop\Lab_2 — копия\pI2-2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
+C:\Users\eduar\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.exe
+C:\Users\eduar\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.deps.json
+C:\Users\eduar\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.json
+C:\Users\eduar\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.runtimeconfig.dev.json
+C:\Users\eduar\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\eduar\Desktop\Lab_2\Lab_2\bin\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.AssemblyReference.cache
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.Properties.Resources.resources
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.GenerateResource.cache
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfoInputs.cache
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.AssemblyInfo.cs
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.dll
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.pdb
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.genruntimeconfig.cache
+C:\Users\eduar\Desktop\Lab_2\Lab_2\obj\Debug\netcoreapp3.1\Lab_2.Form1.resources
